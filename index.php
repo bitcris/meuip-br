@@ -87,5 +87,13 @@ header("Access-Control-Allow-Origin: *");
     L.marker([latitude, longitude]).addTo(map);
   </script>
   <br>
+
+   <div class="rodape">
+    <pre>
+    Café Ware - 2023 <br>
+    @cafeware
+    </pre>
+   </div>
+
   </body>
 </html>
