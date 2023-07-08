@@ -1,0 +1,42 @@
+body{
+    background-color: #161616;
+    color:#3bf8d9;
+  }
+
+  .geral{
+    background-color: rgba(43, 61, 226, 0.062);
+    margin: auto;
+    max-width: 350px;
+    padding: 6px;
+  }
+
+  .painel{
+    text-align: center;
+    border: 1px solid rgb(114, 114, 114);
+    border-radius: 4px;
+    margin:auto;
+  }
+
+  .dados{
+    text-align: center;
+    color: rgb(226, 228, 148);
+    border: 1px solid rgb(114, 114, 114);
+    border-radius: 4px;
+    margin:auto;
+  }
+
+   #local{
+    text-align: center;
+    color: rgb(169, 149, 255);
+    border: 1px solid rgb(114, 114, 114);
+    border-radius: 4px;
+    margin:auto;
+  }
+
+  #map {
+    border: 1px solid rgb(62, 241, 167);
+    border-radius: 5px;
+    margin: auto;
+    width: 250;
+    height: 250px;
+  }
