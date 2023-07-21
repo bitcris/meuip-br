@@ -1,0 +1,2 @@
+MEU IP - 10.23.209.43 | PING - DNS - LOCAL
+
